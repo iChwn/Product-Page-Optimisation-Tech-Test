@@ -101,7 +101,7 @@ export default async function ProductDetailPage({
                 Add to cart
               </button>
               <button className="rounded-xl border border-gray-300 px-5 py-3 text-sm font-semibold text-gray-900 transition hover:bg-gray-50">
-                Save
+                Checkout
               </button>
             </div>
 
